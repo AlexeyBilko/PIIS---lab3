@@ -75,4 +75,5 @@ if __name__ == '__main__':
             break
 
     print("Successful: ", method)
+    
     game.start(method)
